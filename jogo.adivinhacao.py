@@ -6,4 +6,5 @@ chute = int(input('qual numero eu pensei?'))
 if chute == numero_secreto:
     print(f'Parabens voce acertou, eu pensei no numero:{numero_secreto}')
 else:
-    print(f'voce errou não é o numero:{chute} eu pensei no numero:{numero_secreto}')
+    print(f'voce err'
+          f'ou não é o numero:{chute} eu pensei no numero:{numero_secreto}')
